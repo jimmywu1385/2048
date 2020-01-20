@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1514619971 source:c:\users\jimmy\desktop\作業\濟蓋\2048-吳峻銘\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	"menu.hpp"
+	"learning.hpp"
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"gamef.hpp"
+	"showmetric.hpp"
+
+1513586211 source:c:\users\jimmy\desktop\作業\濟蓋\2048-吳峻銘\menu.cpp
+	"menu.hpp"
+	<stdio.h>
+
+1513586172 c:\users\jimmy\desktop\作業\濟蓋\2048-吳峻銘\menu.hpp
+	<SFML/Graphics.hpp>
+
+1514535009 source:c:\users\jimmy\desktop\作業\濟蓋\2048-吳峻銘\learning.cpp
+	<SFML/Graphics.hpp>
+
+1513668073 source:c:\users\jimmy\desktop\作業\濟蓋\2048-吳峻銘\game.cpp
+
+1513586715 c:\users\jimmy\desktop\作業\濟蓋\2048-吳峻銘\learning.hpp
+
+1514617558 source:c:\users\jimmy\desktop\作業\濟蓋\2048-吳峻銘\gamef.cpp
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<SFML/Graphics.hpp>
+
+1514617090 c:\users\jimmy\desktop\作業\濟蓋\2048-吳峻銘\gamef.hpp
+
+1514453534 c:\users\jimmy\desktop\作業\濟蓋\2048-吳峻銘\showmetric.hpp
+	<SFML/Graphics.hpp>
+
+1514453534 source:c:\users\jimmy\desktop\作業\濟蓋\2048-吳峻銘\showmetric.cpp
+	"showmetric.hpp"
+	<stdio.h>
+
